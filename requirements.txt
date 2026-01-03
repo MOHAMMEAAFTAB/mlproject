@@ -1,0 +1,12 @@
+# pandas 
+# numpy
+# seaborn
+# -e .
+
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+-e .
